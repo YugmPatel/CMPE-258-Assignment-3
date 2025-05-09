@@ -1,4 +1,4 @@
-# CMPE-258-Assignment-3
+# CMPE-258-Assignment-3 Tensor Operations Practice
 # Tensor Operations in TensorFlow and PyTorch
 
 ## Overview
