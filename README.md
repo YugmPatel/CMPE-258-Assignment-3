@@ -1,5 +1,4 @@
 # CMPE-258-Assignment-3
-
 # Tensor Operations in TensorFlow and PyTorch
 
 ## Overview
@@ -23,6 +22,17 @@ This repository contains two Jupyter notebooks exploring various tensor operatio
    - Linear algebra operations
    - Introduction to **Einops** for tensor manipulation
    - Advanced techniques for optimizing tensor computations
+
+## Video Demonstration
+A comprehensive video walkthrough of the tensor operations implemented in both frameworks is available at:
+
+[Watch the Tensor Operations Tutorial on YouTube](https://youtu.be/S7-uHfZLDcA)
+
+The video covers:
+- Live demonstrations of key tensor operations
+- Comparisons between TensorFlow and PyTorch approaches
+- Practical applications and performance considerations
+- Advanced tensor manipulation techniques
 
 ## Resources & References
 - TensorFlow Guide: [https://www.tensorflow.org/guide/tensor](https://www.tensorflow.org/guide/tensor)
